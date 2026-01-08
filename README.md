@@ -23,4 +23,5 @@ Senior Product Manager — Platform (APIs & Integrations) | Multi-tenant SaaS | 
 - Open to remote; Dallas/Plano hybrid also works
 
 ## Links
-- LinkedIn: https://www.linkedin.com/in/4billholt/
+- LinkedIn: [linkedin.com/in/4billholt](https://www.linkedin.com/in/4billholt/)
+
