@@ -13,6 +13,7 @@ Senior Product Manager — Platform (APIs & Integrations) | Multi-tenant SaaS | 
 ## Proof artifact
 - **[DesktopTileLauncher](https://github.com/108thecitizen/DesktopTileLauncher)** — a lightweight Windows desktop launcher I built as a sandbox for GenAI-assisted development + release discipline (CI/tests, tagged releases, security tooling).  
   → **[Download the latest release](https://github.com/108thecitizen/DesktopTileLauncher/releases/latest)**
+  → **Install via WinGet:** `winget install --id DesktopTileLauncher -e`
 
 ## What I’m looking for
 - Senior PM roles: Platform / APIs / Integrations (Series A/B–Growth)
