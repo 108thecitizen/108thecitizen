@@ -18,11 +18,9 @@ Senior Product Manager — Platform (APIs & Integrations) | Multi-tenant SaaS | 
     winget install --id 108thecitizen.DesktopTileLauncher -e
     ```
 
-
 ## What I’m looking for
 - Senior PM roles: Platform / APIs / Integrations (Series A/B–Growth)
 - Open to remote; Dallas/Plano hybrid also works
 
 ## Links
 - LinkedIn: https://www.linkedin.com/in/4billholt/
-
